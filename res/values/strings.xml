@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My eBook</string>
+    <string name="action_settings">Settings</string>
+	<string name="lblTitle">Select Language </string>
+	<string name="mlable" > भाषा निवडा </string>
+	<string name="lnlMar" > English </string>
+	<string name="lblENg" >Marathi </string>
+	
+	<string name="lblCmdStad1">First Standard</string>
+
+</resources>
